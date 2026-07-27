@@ -13,7 +13,10 @@
 
 ```
 notes/
-└── 001-skill-acquisition-loop.md   借用别人的 skill:跑起来 → 研读 md → 打磨适配
+├── 001-skill-acquisition-loop.md   借用别人的 skill:跑起来 → 研读 md → 打磨适配
+└── 002-article-to-skill.md         用别人的文章做成 skill:通读补全→审计遗漏→实跑打磨→啃透名词
+examples/
+└── pevc-lens-audit.md              实例:逐层对照审计 pevc-financials-lens vs 原文
 ```
 
 (持续增加)
