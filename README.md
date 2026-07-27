@@ -15,7 +15,8 @@
 notes/
 ├── 001-skill-acquisition-loop.md   借用别人的 skill:跑起来 → 研读 md → 打磨适配
 ├── 002-article-to-skill.md         用别人的文章做成 skill:通读补全→审计遗漏→实跑打磨→啃透名词
-└── 003-两个skill的视角互补.md      audit-craft × pevc:两个 skill 看同一家公司,视角互补
+├── 003-两个skill的视角互补.md      audit-craft × pevc:两个 skill 看同一家公司,视角互补
+└── 004-skill如何集成成agent.md     六种集成方式 + 按需选型(别过度设计)
 examples/
 └── pevc-lens-audit.md              实例:逐层对照审计 pevc-financials-lens vs 原文
 ```
